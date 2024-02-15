@@ -37,7 +37,7 @@
 2. Kindly contact me if you want to know more 😃
 
 **For Learners**
-1. Download the dataset and .ipynb file.
+1. Download the dataset from [link](https://drive.google.com/file/d/1GauB1_L0di4GyZ1ig71tsps8Wn7aEoi3/view?usp=drive_link) and the .ipynb file.
 2. Open the .ipynb file using Google Colaboratory or jupyter notebook.
 3. Read through the project context, objective, data description and dictionary.
 4. Try and run the code in the .ipynb notebook, cell by cell. As the codes are well-commented, try to understand what each line of code does.
